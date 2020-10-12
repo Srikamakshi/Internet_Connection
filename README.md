@@ -23,4 +23,12 @@ It also provides a bar chart to represent the variation of the internet speed ov
 ## Determines if the average speed
 The average internet speed is determined to see if the speed is same as the one that is one provided by the ISP based on the dataset **isp.csv**
 
-![img](front.png)
+# Data
+
+## Speedx24hr.csv
+
+This dataset contains information about speed of the internet over 24 hours. It obtained by runnning the `scheduler.py`, which will inturn record the internet speed every one hour.
+
+## isp.csv
+
+This dataset contains information about the internet speed offered by a few ISPs.
