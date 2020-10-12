@@ -7,9 +7,8 @@ This program aims to measure the internet speed of the user and suggests the bes
 The libariries mentioned below are to be installed using
 
 pip install library_name
-
--pandas
--matplotlib
--Datetime
--Speedtest-cli
+- pandas
+- matplotlib
+- Datetime
+- Speedtest-cli
 
